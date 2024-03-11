@@ -43,6 +43,6 @@ $$ M \cdot (1 - t) $$
 
 Mientras que, para la segunda gráfica se hace uso de:
 
-$$  \frac{M}{1 - t}$$.
+$$  \frac{M}{1 - t} $$.
 
 El resultado final puede verse en el [simulador publicado](https://n802zc-manu-al0n.shinyapps.io/sim_ValorDinero/)
